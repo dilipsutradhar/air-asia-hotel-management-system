@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="air-asia-hotel-management-system/src/main/java"/>
+	<classpathentry kind="src" path="air-asia-hotel-management-system/src/test/java"/>
+	<classpathentry kind="lib" path="air-asia-hotel-management-system/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="air-asia-hotel-management-system/bin/main"/>
+</classpath>
